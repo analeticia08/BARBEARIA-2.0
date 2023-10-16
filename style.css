@@ -1,5 +1,6 @@
 header {
   background: #BBBBBB;
+  padding:20px;
 }
 
 nav a {
@@ -21,4 +22,6 @@ nav li {
     } 
 .caixa {
   width: 940px;
+  position:relative;
+  margin: o auto;
 }
